@@ -56,20 +56,18 @@
                                         </tr>
                                 <?php    
                                         $sr_no++;
-                                    } // End of while loop
+                                    } 
                                 ?>
                             </tbody>
                         </table>
                     </div>
-                    <!-- /.table-responsive -->                
+                                  
                 </div>
                 
             </div>
-                <!-- /#page-wrapper -->
+               
         </div>
-        <!-- /#wrapper -->
-
-        <!-- FOOTER -->
+        
         <?php
             require_once("../ui-elements/footer.php");
         ?>
